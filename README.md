@@ -3,7 +3,7 @@
 - 🔭 I’m Pre-Full Stack Automation Engineer                                                                            
 - 🌱 I'm working on a project with framework TestNG and Cucumber
 - 💪 My goals: To bring out quality projects.
-- ⚡ Fun fact: I love coding 💻, writing blog 🖋️, volleyball ⚽ and playing guitar 🎸. 
+- ⚡ Fun fact: I love coding 💻, writing blog 🖋️, volleyball 🏐 and listening music 🎶. 
 - ⏲ What we are doing now: i am writing code 🚀.
 - 📫 How to reach me **rsparmaksiz@gmail.com**
 
@@ -23,5 +23,3 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rsparmaksiz&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br/>
-<p align ="center"> <img src="https://activity-graph.herokuapp.com/graph?username=rsparmaksiz&theme=lucent" alt="RSP_contribution-graph"/>
-<br />
