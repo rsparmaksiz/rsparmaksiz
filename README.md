@@ -3,7 +3,8 @@
 - 🔭 I’m Pre-Full Stack Automation Engineer                                                                            
 - 🌱 I'm working on a project with framework TestNG and Cucumber
 - 💪 My goals: To bring out quality projects.
-- ⚡ Fun fact: I love coding 💻, writing blog 🖋️, volleyball 🏐 and listening music 🎶. 
+- ⚡ Fun fact: I love coding 💻, writing blog 🖋️, volleyball 🏐, seeing new places✈️ and listening music 🎶. 
+- 👀 Learning software and writing code is one of my biggest passions 🔥.
 - ⏲ What we are doing now: i am writing code 🚀.
 - 📫 How to reach me **rsparmaksiz@gmail.com**
 
