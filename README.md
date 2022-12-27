@@ -4,7 +4,7 @@
 - 🌱 I'm working on a project with framework TestNG and Cucumber
 - 💪 My goals: To bring out quality projects.
 - ⚡ Fun fact: I love coding 💻, writing blog 🖋️, volleyball 🏐, seeing new places✈️ and listening music 🎶. 
-- 👀 Learning software and writing code is one of my biggest passions 🔥.
+- 👀 I am passionate about learning new technologies and enjoy solving problems 🔥.
 - ⏲ What we are doing now: i am writing code 🚀.
 - 📫 How to reach me **rsparmaksiz@gmail.com**
 
