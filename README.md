@@ -1,6 +1,6 @@
 ### Hi! Welcome to My Github Profile 👋
 
-- 🔭 I’m Pre-Full Stack Automation Engineer                                                                            
+- 🔭 I’m a Full Stack Automation Engineer                                                                            
 - 🌱 I'm working on a project with framework TestNG and Cucumber
 - 💪 My goals: To bring out quality projects.
 - ⚡ Fun fact: I love coding 💻, writing blog 🖋️, volleyball 🏐, seeing new places✈️ and listening music 🎶. 
