@@ -53,9 +53,8 @@
   </a>
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+
 
 <!-- 
 name: GitHub-Profile-3D-Contrib
@@ -92,6 +91,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rsparmaksiz&count_private=true&theme=theme&show_icons=true" alt="rsparmaksiz" /p>
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+
+![](./profile-3d-contrib/profile-green.svg)
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rsparmaksiz&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
