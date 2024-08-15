@@ -87,9 +87,12 @@ jobs:
 Rsp/RSP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsparmaksiz&show_icons=true&locale=en&layout=compact" alt="rsparmaksiz" /></p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rsparmaksiz&count_private=true&theme=theme&show_icons=true" alt="rsparmaksiz" /p>
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=rsparmaksiz&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=rsparmaksiz&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/rsparmaksiz/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsparmaksiz&layout=compact"/></a>
+</p>
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 ![](./profile-3d-contrib/profile-green.svg)
