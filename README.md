@@ -1,11 +1,10 @@
 ### Hi! Welcome to My Github Profile 👋
 
 - 🔭 I’m a Data Scientist and Automation Engineer                                                                            
-- 🌱 I'm working on a project with framework TestNG and Cucumber
 - 💪 My goals: To bring out quality projects.
 - ⚡ Fun fact: I love coding 💻, reading 📚, writing blog 🖋️, volleyball 🏐, seeing new places✈️ and listening music 🎶. 
 - 👀 I am passionate about learning new technologies and enjoy solving problems 🔥.
-- ⏲ What we are doing now: i am writing code 🚀.
+- ⏲ What we are doing now: I am writing code 🚀.
 - 📫 How to reach me **rsparmaksiz@gmail.com**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=QA+Automation+Engineer+%7C+Turkey;I'm+Ramazan;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
